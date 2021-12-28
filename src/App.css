@@ -1,0 +1,16 @@
+.App {
+  height: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+
+@keyframes fadeout-effect {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}

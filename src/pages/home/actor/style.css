@@ -1,0 +1,30 @@
+.actor {
+  background: linear-gradient(-90deg, rgba( 51, 51, 61, .5) 0%, rgba( 51, 51, 61, .9) 100%), var(--cimg);
+  background-size: cover;
+  border-radius: .5em;
+  aspect-ratio: 1/1.5;
+  cursor: pointer;
+  
+  margin: 1em 0 0 .25em;
+  padding: .25em;
+  width: 40%;
+  max-width: 15rem;
+}
+
+.actor .info {
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  display:flex;
+  height: 100%;
+}
+
+.actor:hover {
+  background: linear-gradient(-90deg, rgba( 51, 51, 61, .5) 0%, rgba( 51, 51, 61, .9) 100%), var(--img);
+  background-size: cover;
+}
+
+.actor h3 {
+  font-size: 1.1rem;
+  font-weight: 300;
+}
