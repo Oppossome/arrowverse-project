@@ -1,4 +1,4 @@
-Brett Cutler's Arrowverse Watchsystems project
+Arrowverse Watchsystems Project
 
 How to launch:
   1) Open a terminal in the project folder
